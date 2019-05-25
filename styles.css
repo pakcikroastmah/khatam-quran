@@ -1,0 +1,31 @@
+.home-section {
+    height: 100vh;
+    padding-top: 10%;
+}
+
+.margin-right-20 {
+    margin-right: 20px;
+}
+#boi {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.pages-text {
+    margin-bottom: 50px;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+#pages-section {
+    height: 100vh;
+    padding-top: 10%;
+}
+#days-section {
+    height: 100vh;
+    padding-top: 10%;
+}
